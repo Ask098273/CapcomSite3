@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body {
+    font-family: 'Inter',Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 5px;
+    background-image: url(https://getwallpapers.com/wallpaper/full/d/5/c/952543-capcom-wallpaper-1920x1080-for-computer.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height:1.6;
+}
+
+header{
+    background-color: rgb(3, 133, 255);
+    opacity: 50%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
